@@ -93,22 +93,22 @@ body {
 
 .wrapper .container .card-supervisor {
   border-top: solid 3px #45d3d3;
-  background-image: url("/images/icon-supervisor.svg");
+  background-image: url("images/icon-supervisor.svg");
 }
 
 .wrapper .container .card-team {
   border-top: solid 3px #ea5353;
-  background-image: url("/images/icon-team-builder.svg");
+  background-image: url("images/icon-team-builder.svg");
 }
 
 .wrapper .container .card-karma {
   border-top: solid 3px #fcaf4a;
-  background-image: url("/images/icon-karma.svg");
+  background-image: url("images/icon-karma.svg");
 }
 
 .wrapper .container .card-calculator {
   border-top: solid 3px #549ef2;
-  background-image: url("/images/icon-calculator.svg");
+  background-image: url("images/icon-calculator.svg");
 }
 
 @media (min-width: 700px) {
